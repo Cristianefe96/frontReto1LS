@@ -1,4 +1,4 @@
-let urlBase = "http://129.158.45.180:8080/api/user";
+let urlBase = "http://129.151.121.47:8081/api/user";
 function validarRegistro() {
     let user = {
         name: $("#nameU").val(),
